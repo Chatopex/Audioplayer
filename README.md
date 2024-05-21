@@ -1,8 +1,8 @@
-# Chatopex Audioplayer (Version 1.0.0)
+# Chatopex Musikplayer (Version 1.0.0)
 
-Audioplayer Version 1.0.0 - Early Access
+Musikplayer Version 1.0.0 - Early Access
 
-We are excited to introduce the Early Access version of Audioplayer 1.0.0!
+We are excited to introduce the Early Access version of Musikplayer 1.0.0!
 
 To get started, simply download the ZIP file and run Musikplayer.exe. This early access version is a preliminary release designed to test compatibility with Windows 10/11 and Python on systems that do not have Python pre-installed.
 
