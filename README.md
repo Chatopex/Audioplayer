@@ -11,4 +11,5 @@ Please note that this is not the final release. The full version, which will inc
 Thank you for participating in our early access program. Your feedback is invaluable in helping us improve Musikplayer. Stay tuned for updates!
 
 Release: https://github.com/Chatopex/Musikplayer/releases/tag/Chatopex
+
 Website: http://download.chatopex.de/
