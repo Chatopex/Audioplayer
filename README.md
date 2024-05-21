@@ -1,5 +1,4 @@
-# Audioplayer
-Chatopex Audioplayer
+# Chatopex Audioplayer (Version 1.0.0)
 
 Audioplayer Version 1.0.0 - Early Access
 
